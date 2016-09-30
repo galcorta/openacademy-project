@@ -1,4 +1,4 @@
 # Open Academy module:
-            - training courses to test
-            - training sessions to test
+            - training course for test
+            - training session for test
             - attendees registration
