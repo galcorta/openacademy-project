@@ -1,4 +1,4 @@
 # Open Academy module:
-            - training courses
-            - training sessions
+            - training course
+            - training session
             - attendees registration
