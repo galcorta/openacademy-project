@@ -19,6 +19,7 @@
     # always loaded
     'data': [
         'views/openacademy_course_view.xml',
+        'views/openacademy_session_view.xml',
         # 'templates.xml',
     ],
     # only loaded in demonstration mode
