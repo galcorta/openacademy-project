@@ -7,7 +7,6 @@
             <field name="arch" type="xml">
                 <form string="Session Form">
                     <sheet>
-			<group>
 			    <group string="General">
 				<field name="course_id"/>
 				<field name="name"/>
@@ -18,7 +17,6 @@
                                 <field name="duration"/>
                                 <field name="seats"/>
                             </group>
-			</group>
                     </sheet>
                 </form>
             </field>
